@@ -33,7 +33,7 @@
                     </svg>
                 </div>
                 <input type="text" name="email" id="topbar-search"
-                    class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-primary-500 focus:border-primary-500 block w-full pl-10 p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-primary-500 dark:focus:border-primary-500"
+                    class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full pl-10 p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500"
                     placeholder="Search" />
             </div>
         </form>
@@ -76,7 +76,7 @@
                             src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/bonnie-green.png"
                             alt="Bonnie Green avatar" />
                         <div
-                            class="flex absolute justify-center items-center ml-6 -mt-5 w-5 h-5 rounded-full border border-white bg-primary-700 dark:border-gray-700">
+                            class="flex absolute justify-center items-center ml-6 -mt-5 w-5 h-5 rounded-full border border-white bg-blue-700 dark:border-gray-700">
                             <svg aria-hidden="true" class="w-3 h-3 text-white" fill="currentColor"
                                 viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
                                 <path
@@ -94,7 +94,7 @@
                             <span class="font-semibold text-gray-900 dark:text-white">Bonnie Green</span>: "Hey,
                             what's up? All set for the presentation?"
                         </div>
-                        <div class="text-xs font-medium text-primary-600 dark:text-primary-500">
+                        <div class="text-xs font-medium text-blue-600 dark:text-blue-500">
                             a few moments ago
                         </div>
                     </div>
@@ -122,7 +122,7 @@
                             <span class="font-medium text-gray-900 dark:text-white">5 others</span>
                             started following you.
                         </div>
-                        <div class="text-xs font-medium text-primary-600 dark:text-primary-500">
+                        <div class="text-xs font-medium text-blue-600 dark:text-blue-500">
                             10 minutes ago
                         </div>
                     </div>
@@ -150,7 +150,7 @@
                             <span class="font-medium text-gray-900 dark:text-white">141 others</span>
                             love your story. See it and view more stories.
                         </div>
-                        <div class="text-xs font-medium text-primary-600 dark:text-primary-500">
+                        <div class="text-xs font-medium text-blue-600 dark:text-blue-500">
                             44 minutes ago
                         </div>
                     </div>
@@ -176,10 +176,10 @@
                             <span class="font-semibold text-gray-900 dark:text-white">Leslie Livingston</span>
                             mentioned you in a comment:
                             <span
-                                class="font-medium text-primary-600 dark:text-primary-500">@bonnie.green</span>
+                                class="font-medium text-blue-600 dark:text-blue-500">@bonnie.green</span>
                             what do you say?
                         </div>
-                        <div class="text-xs font-medium text-primary-600 dark:text-primary-500">
+                        <div class="text-xs font-medium text-blue-600 dark:text-blue-500">
                             1 hour ago
                         </div>
                     </div>
@@ -205,7 +205,7 @@
                             posted a new video: Glassmorphism - learn how to implement
                             the new design trend.
                         </div>
-                        <div class="text-xs font-medium text-primary-600 dark:text-primary-500">
+                        <div class="text-xs font-medium text-blue-600 dark:text-blue-500">
                             3 hours ago
                         </div>
                     </div>
@@ -416,7 +416,7 @@
                     <a href="#"
                         class="flex justify-between items-center py-2 px-4 text-sm hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">
                         <span class="flex items-center">
-                            <svg aria-hidden="true" class="mr-2 w-5 h-5 text-primary-600 dark:text-primary-500"
+                            <svg aria-hidden="true" class="mr-2 w-5 h-5 text-blue-600 dark:text-blue-500"
                                 fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
                                 <path fill-rule="evenodd"
                                     d="M12.395 2.553a1 1 0 00-1.45-.385c-.345.23-.614.558-.822.88-.214.33-.403.713-.57 1.116-.334.804-.614 1.768-.84 2.734a31.365 31.365 0 00-.613 3.58 2.64 2.64 0 01-.945-1.067c-.328-.68-.398-1.534-.398-2.654A1 1 0 005.05 6.05 6.981 6.981 0 003 11a7 7 0 1011.95-4.95c-.592-.591-.98-.985-1.348-1.467-.363-.476-.724-1.063-1.207-2.03zM12.12 15.12A3 3 0 017 13s.879.5 2.5.5c0-1 .5-4 1.25-4.5.5 1 .786 1.293 1.371 1.879A2.99 2.99 0 0113 13a2.99 2.99 0 01-.879 2.121z"

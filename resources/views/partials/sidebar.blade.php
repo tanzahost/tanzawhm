@@ -11,7 +11,7 @@
                 </svg>
             </div>
             <input type="text" name="search" id="sidebar-search"
-                class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-primary-500 focus:border-primary-500 block w-full pl-10 p-2 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-primary-500 dark:focus:border-primary-500"
+                class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full pl-10 p-2 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500"
                 placeholder="Search" />
         </div>
     </form>
@@ -111,7 +111,7 @@
                 </svg>
                 <span class="flex-1 ml-3 whitespace-nowrap">Messages</span>
                 <span
-                    class="inline-flex justify-center items-center w-5 h-5 text-xs font-semibold rounded-full text-primary-800 bg-primary-100 dark:bg-primary-200 dark:text-primary-800">
+                    class="inline-flex justify-center items-center w-5 h-5 text-xs font-semibold rounded-full text-blue-800 bg-blue-100 dark:bg-blue-200 dark:text-blue-800">
                     4
                 </span>
             </a>
